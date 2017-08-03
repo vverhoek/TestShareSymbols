@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "5ABB4698-16F5-4B4B-9F61-24016368367E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 79,
+    "width": 376,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8AD03EFB-577C-4A8B-9140-351E0FA9572E"
+    },
+    {
+      "class": "text",
+      "id": "4C67EF54-1EFD-4BF0-A85B-ADD144E37B03"
+    }
+  ],
+  "name": "tootip copy 2",
+  "nameIsFixed": true,
+  "originalObjectID": "5ABB4698-16F5-4B4B-9F61-24016368367E",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

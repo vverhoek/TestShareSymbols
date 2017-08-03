@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "52E762E6-FDEB-4D4B-9F25-27232BB16BDD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5C8E6D5A-E488-4A67-892F-FAFC2965AD57"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98207566-14A9-43D5-B60A-A5B1838879F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2667A079-D12F-4F4B-9808-6C64D74CF63F"
+    }
+  ],
+  "name": "Icons/24x24/checkmark",
+  "nameIsFixed": true,
+  "originalObjectID": "52E762E6-FDEB-4D4B-9F25-27232BB16BDD",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 24,
+            "enabled": 1,
+            "modelID": "constraint_f5bc1b07-7835-4ce3-be38-9b8c7d40fcee",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 24
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_ea6d9ab8-1dad-4a1c-9b49-e1e1b28807e9",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
