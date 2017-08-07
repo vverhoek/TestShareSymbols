@@ -1,5 +1,5 @@
 {
-  "shareTextStyles": false,
+  "shareTextStyles": true,
   "shareLayerStyles": false,
   "sharedPages": [
     "Global symbols"
