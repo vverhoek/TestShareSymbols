@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "D7BE650A-1562-4CF5-87D3-6459C1716517",
+  "do_objectID": "97DEC8B8-2E8E-4E80-A511-CD82489111E8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 40.99999999999998,
     "width": 41,
-    "x": 0,
-    "y": 0
+    "x": -14,
+    "y": 260
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,12 +29,12 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "E1A465F2-98DB-4AF6-9C15-8CC4E8CBC872"
+      "id": "03768ADA-14FE-42C2-9899-05B0E0922A5B"
     }
   ],
-  "name": "Rectangle Copy",
+  "name": "Rectangle Copy 2",
   "nameIsFixed": false,
-  "originalObjectID": "CF44AE26-5FD7-45F3-AD4B-9197B17ADB6A",
+  "originalObjectID": "14C45403-4CB2-478C-AB9F-CD1FC83243BD",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -64,9 +64,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.08627450980392155,
-          "green": 0.8431372549019609,
-          "red": 0.9764705882352941
+          "blue": 0.7294117647058823,
+          "green": 0,
+          "red": 0.6521099744245529
         },
         "fillType": 0,
         "isEnabled": true,

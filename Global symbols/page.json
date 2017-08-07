@@ -79,6 +79,10 @@
     {
       "class": "symbolMaster",
       "id": "11A6AF2C-F31C-4E69-AA31-2E42E7FE4C04"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "97DEC8B8-2E8E-4E80-A511-CD82489111E8"
     }
   ],
   "name": "Global symbols",
